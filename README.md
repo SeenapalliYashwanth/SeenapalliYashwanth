@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif">
 <p align="left"> <isrc="https://komarev.com/ghpvc/?username=seenapalliyashwanth&label=Profile%20views&color=0e75b6&style=flat" alt="seenapalliyashwanth" /> </p>
 
-![](https://komarev.com/ghpvc/?SeenapalliYashwanth=your-github-SeenapalliYashwanth&color=green)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SeenapalliYashwanth&label=Profile%20views&color=0e75b6&style=flat" alt="SeenapalliYashwanth" /> </p>
 
 - 🌱 I’m currently learning **Terraform,Ansible,kubernetes,AWS,Docker**
 
